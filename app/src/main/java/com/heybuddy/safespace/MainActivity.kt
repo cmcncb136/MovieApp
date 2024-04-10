@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import com.heybuddy.safespace.databinding.ActivityMainBinding
+import com.heybuddy.safespace.databinding.ActivityMovieListBinding
 import java.util.zip.Inflater
 
 class MainActivity : AppCompatActivity() {
